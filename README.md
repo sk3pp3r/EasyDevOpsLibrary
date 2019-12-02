@@ -1,3 +1,5 @@
 # Easy DevOps Library
 
-A central location for your journey into the DevOps world
+## A Central Location FOr Your Journey Into The DevOps World
+
+You more than welcome to help this repo to grow
